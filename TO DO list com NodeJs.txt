@@ -1,0 +1,3 @@
+Neste APP fiz uma TO DO para listar as minhas tarefas diárias.
+
+Nele consigo criar tarefas, marcar como concluídas, desmarcar ou exclui-las, tudo isso através do terminal command git BASH (NodeJs) 
