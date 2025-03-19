@@ -12,6 +12,12 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias
 
 -HTML e CSS
+<br>
 -Javascript
+<br>
 -Git e GitHub
+
+## Projeto 
+
+Meu portifólio é para facilitar que as pessoas saibam e entendam quais são meus conhecimentos desde então.
 
