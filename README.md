@@ -16,6 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 -Javascript
 <br>
 -Git e GitHub
+-Figma
 
 ## Projeto 
 
