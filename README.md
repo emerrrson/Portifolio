@@ -1,4 +1,4 @@
-# portifolio
+# 🚀 portifolio
 
 <p align="center">
 <img alt="License" src="assets/Captura de tela 2025-03-19 175456.png">
@@ -7,7 +7,7 @@
 
 <br>
 
-## Tecnologias
+## 🖥️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias
 
@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 -Git e GitHub
 -Figma
 
-## Projeto 
+## 💡 Projeto 
 
 Meu portifólio é para facilitar que as pessoas saibam e entendam quais são meus conhecimentos desde então.
 
